@@ -1,3 +1,5 @@
 # Assortment of links to useful resources:
 
-https://clark.center/
+[NSA NCCP](https://clark.center/)
+
+[Ghidra](https://github.com/NationalSecurityAgency/ghidra)
